@@ -1,0 +1,22 @@
+{
+  "name": "tutorial-full-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tunguyenbhtech@github.com/tunguyenbhtech/tutorial-full-stack.git"
+  },
+  "author": "TuNA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tunguyenbhtech/tutorial-full-stack/issues"
+  },
+  "homepage": "https://github.com/tunguyenbhtech/tutorial-full-stack#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
